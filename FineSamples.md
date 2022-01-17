@@ -60,4 +60,14 @@ Default    | Left align | Center align | Right align
 
 [Markdown-Cheat-Sheet]: https://github.com/lifeparticle/Markdown-Cheatsheet
 
-[Example of a relative link](Links.md)
+Example of a relative link
+[trick](https://stackoverflow.com/a/31394335/12878692) for align next page
+
+
+||
+|:---:|
+| I'm centered! |
+
+
+| [next page ⏩](nextpage.md) |
+| --:|
